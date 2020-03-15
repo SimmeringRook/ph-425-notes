@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T13:26:05-07:00
+
+====== Eigenvalue Equation ======
+Created Saturday 14 March 2020
+
+Linear Algebra defines it using the following notation:
+
+{{..\eigenvalue_equation.png}}
+
+In Dirac notation:
+
+{{..\eigenvalue_equation_dirac.png}}
+
+where //A// is an [[Operator|operator]], and the phi [[Ket|kets]] represent an [[Eigenvector|eigenvector]] of //A//.

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T12:47:00-07:00
+
+====== Observables ======
+Created Saturday 14 March 2020
+
+===== Definition: =====
+An observable is a physical quantity that can be measured.
+
+An example are the results of a spin 1/2 system:
+
++hbar/2 and -hbar/2
+
+

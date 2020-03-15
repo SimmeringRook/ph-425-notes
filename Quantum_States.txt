@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T10:31:43-07:00
+
+====== Quantum States ======
+Created Saturday 14 March 2020
+
+A quantum state can be represented in a variety of ways:
+	* As a [[Wave function|wave function]]:
+			{{..\wavefunction_representation_of_quantum_state.png}}
+	* As a linear combination of [[Ket|kets]]:
+			{{..\ket_representation_of_quantum_state.png}}
+All quantum states are [[Normalization|normalized]], which means taking the norm squared of the [[Inner Product|inner product]] with itself will equal 1.

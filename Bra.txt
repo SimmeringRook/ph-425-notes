@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T10:53:34-07:00
+
+====== Bra ======
+Created Saturday 14 March 2020
+
+A bra is the [[Hermitian Adjoint|Hermitian adjoint]] of a [[Ket|ket]]. We can also display this information with [[Matrix|matrices]], in which case a bra represents a row matrix:
+
+{{..\bra_as_matrix.png}}
+
+The primary use of the bra representation is when we take the [[Inner Product|inner product]] of a [[Quantum Mechanical System|system]]’s [[Eigenvector|eigenvector]] with the [[Quantum States|state]] to find the probability that the corresponding [[Eigenvalue|eigenvalue]] will be measured. This uses the following notation:
+
+	In Dirac:
+
+{{..\probability_of_measuring_Sz.png}}
+
+	In matrix:
+
+{{..\probability_of_measuring_Sz_in_matrix.png}}

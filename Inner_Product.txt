@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T11:25:19-07:00
+
+====== Inner Product ======
+Created Saturday 14 March 2020
+
+{{..\braket.png}}
+
+The inner product is the resulting scalar value from the dot product between two vectors. Note that the inner product of two [[Basis|basis]] vectors is 1 because we have imposed the restriction that all basis vectors must be normalized.
+
+In the beginning, using matrix notation may make this process easier to see:
+
+{{..\inner_product.png}}
+
+The order in which bras and kets are placed in this bracket is important. Consider the state:
+
+{{..\example_state.png}}
+
+Where a and b are complex numbers
+
+	In dirac notation, this looks like:
+{{..\inner_product_example_dirac.png}}
+
+In matrix notation, this looks like:
+{{..\inner_product_example_matrix.png}}

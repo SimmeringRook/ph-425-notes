@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T10:38:52-07:00
+
+====== Ket ======
+Created Saturday 14 March 2020
+
+		{{..\ket.png}}
+		
+We use kets to encode information about the quantum system into the state. Kets are the [[Eigenvalue|eigenvalues]] and [[Eigenvector|eigenvectors]] of the [[Observables|observable]] the state is trying to describe. We can also display this information with [[Matrix|matrices]], in which case a ket represents a column matrix:
+
+{{..\ket_as_matrix.png}}
+
+The row matrix version of the ket is called a [[Bra|bra]]. Since kets represent eigenvectors, you should treat them the same as vectors.

@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T13:06:16-07:00
+
+====== Eigenvalue ======
+Created Saturday 14 March 2020
+
+===== Definiton: =====
+The scalar multiple of which eigenvectors are scaled by.
+
+===== Finding the eigenvalues of a matrix: =====
+We do this by using what is called the [[Eigenvalue Equation|eigenvalue equations]]:
+
+Given some matrix A, we take the determinate of A and subtract lambda multiplied by the identity matrix and set the result equal to 0.
+
+{{..\det_a_minus_lamda_I.png}}
+
+If A was equal to:
+
+{{..\sample_matrix.png}}
+
+Then:
+
+{{..\example_find_eigenvalues.png}}
+
+== Further Reading: ==
+http://sites.science.oregonstate.edu/physics/mathbook/LinAlg/eigenvalue.html
+
+
+
+

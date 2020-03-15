@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T15:18:42-07:00
+
+====== Completeness ======
+Created Saturday 14 March 2020
+
+===== Definition: =====
+Completeness in the context of [[Vector|vectors]] means we can use linear combinations of the [[Eigenvector|eigenvectors]] of a [[Basis|basis]] to describe any [[Vector|vector]] that exists in that space.
+
+In the context of quantum mechanics, this means we can use linear combinations of the [[Basis|basis]] [[Ket|kets]] to describe any [[Quantum States|quantum state]] for that [[Basis|basis]]'s [[Hilbert Space]].
+
+===== Usefulness: =====
+See [[Completeness Relation]].

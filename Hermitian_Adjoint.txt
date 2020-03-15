@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T12:00:55-07:00
+
+====== Hermitian Adjoint ======
+Created Saturday 14 March 2020
+
+The adjoint operator takes a matrix and conjugates it and then transposes the matrix.
+
+https://en.wikipedia.org/wiki/Hermitian_adjoint

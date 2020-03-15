@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T11:29:13-07:00
+
+====== Basis ======
+Created Saturday 14 March 2020
+
+A basis in quantum mechanics is no different than a basis for any other mathematical system. We use a linear combination of kets to describe a basis for a quantum system. All of these basis kets and their corresponding bras have the restriction that they must be normalized.
+
+Each basis has the three following properties:
+* [[Normalization]]
+* [[Orthogonality]]
+* [[Completeness]]

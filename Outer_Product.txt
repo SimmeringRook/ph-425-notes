@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T13:49:16-07:00
+
+====== Outer Product ======
+Created Saturday 14 March 2020
+
+===== Definition: =====
+Also called a projection operator.
+
+== Further Reading: ==
+Page 45 of McIntyre

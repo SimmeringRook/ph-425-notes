@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T13:00:30-07:00
+
+====== Quantum Postulates ======
+Created Saturday 14 March 2020
+
+===== Postulate 1: =====
+The state of a [[Quantum Mechanical System|quantum mechanical system]], including all the information you can know about it, is represented mathematically by a [[Normalization|normalized]] [[Ket|ket]].
+
+===== Postulate 2: =====
+A physical [[Observables|observable]] is represented mathematically by an [[Operator|operator]] //A// that acts on [[Ket|kets]].
+
+===== Postulate 3: =====
+The only possible result of a measurement of an [[Observables|observable]] is one of the [[Eigenvalue|eigenvalues]] //a//_{n }of the corresponding [[Operator|operator]] //A//.
+
+===== Postulate 4: =====
+The probability of obtaining the [[Eigenvalue|eigenvalue]] //a//_{n} in a measurement of the [[Observables|observable]] //A //on the [[Quantum Mechanical System|system]] in a [[Quantum States|state]] is:
+
+{{..\postulate_4.png}}
+
+where  //a//_{n} is the [[Normalization|normalized]] [[Eigenvector|eigenvector]] of A corresponding to the [[Eigenvalue|eigenvalue]]  //a//_{n}.
+
+===== Postulate 5: =====
+After a measurement of A that yields the result  //a//_{n}, the [[Quantum Mechanical System|quantum system]] is in a new [[Quantum States|state]] that is the [[Normalization|normalized]] [[Projection|projection]] of the original [[Quantum Mechanical System|system]] [[Ket|ket]] onto the [[Ket|ket]] (or [[Ket|kets]]) corresponding to the result of the measurement:
+
+{{..\postulate_5.png}}
+
+===== Postulate 6: =====
+The time evolution of a [[Quantum Mechanical System|quantum system]] is determined by the [[Hamiltonian]] or total energy [[Operator|operator]] //H(t) //through the [[Schrodinger Equation|Schrodinger equation]].
+
+{{..\schrodinger_equation.png}}

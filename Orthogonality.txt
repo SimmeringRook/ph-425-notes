@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T12:02:25-07:00
+
+====== Orthogonality ======
+Created Saturday 14 March 2020
+
+This means the angle between the two vectors is 90 degrees. They only intersect at one point. Their slope is the negative reciprocal of the other.

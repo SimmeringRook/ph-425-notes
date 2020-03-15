@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-14T13:13:10-07:00
+
+====== Eigenvector ======
+Created Saturday 14 March 2020
+
+===== Definition: =====
+A characteristic vector of a vector space whose linear combination with other eigenvectors can describe anyvector or point in that vector space.
+
+
+
+== Further Reading: ==
+http://sites.science.oregonstate.edu/physics/mathbook/LinAlg/eigenvalue.html
+https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors
