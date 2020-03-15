@@ -7,7 +7,7 @@ Created Saturday 14 March 2020
 
 {{..\braket.png}}
 
-The inner product is the resulting scalar value from the dot product between two vectors. Note that the inner product of two [[Basis|basis]] vectors is 1 because we have imposed the restriction that all basis vectors must be normalized.
+The inner product is the [[Projection|projection]] of the ket onto the bra, which results in a scalar value (analogous to the dot product between two vectors). Note that the inner product of two [[Basis|basis]] vectors is 1 because we have imposed the restriction that all basis vectors must be normalized.
 
 In the beginning, using matrix notation may make this process easier to see:
 

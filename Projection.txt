@@ -5,3 +5,21 @@ Creation-Date: 2020-03-14T13:49:17-07:00
 ====== Projection ======
 Created Saturday 14 March 2020
 
+===== Definition: =====
+The magnitude of a vector in the direction of another.
+
+=== Non-abstract Vector Space: ===
+Given two vectors, A and B:
+
+	The magnitude of B times the cosine of the angle bettwen A and B.
+
+
+=== Abstract Vector Space: ===
+Given a state Psi:
+
+	Psi = 0.25 |a_1> - 0.75 |a_2>
+	
+	The projection of Psi onto a_1 is:
+	
+		<a_1|Psi> = 0.25
+
